@@ -1,2 +1,3 @@
 # SecondProject
-This is my second project: learning GitHub.
+This is my second project: learning Git.
+
